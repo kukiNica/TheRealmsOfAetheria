@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4c64042011173fc469183a8da500b139, type: 3}
   m_Name: Icon 1
   m_EditorClassIdentifier: Assembly-CSharp::IconsList
-  icon: {fileID: 0}
+  icon: {fileID: 21300000, guid: cc3b1e539e77e634fbe11a9bdee92e25, type: 3}
