@@ -6,7 +6,12 @@ public class ClientManager : MonoBehaviour
     [Header("Interface")]
     public GameObject UI1;
     public GameObject SeleccionSkinsUI;
-    public GameObject VisualizacionSkinsUI;
+    public GameObject VisualizationSkinsUI;
+    [Space]
+
+    public GameObject Skin1Canvas;
+    public GameObject Skin2Canvas;
+    public GameObject Skin3Canvas;
 
     [Space]
     [Header("General Buttons")]
@@ -49,7 +54,7 @@ public class ClientManager : MonoBehaviour
     {
         UI1.SetActive(true);
         SeleccionSkinsUI.SetActive(false);
-        VisualizacionSkinsUI.SetActive(false);
+        VisualizationSkinsUI.SetActive(false);
     }
 
     //INTERFACE 2
@@ -57,14 +62,40 @@ public class ClientManager : MonoBehaviour
     {
         UI1.SetActive(false);
         SeleccionSkinsUI.SetActive(true);
-        VisualizacionSkinsUI.SetActive(false);
+        VisualizationSkinsUI.SetActive(false);
     }
 
-    //INTERFACE 3
-    public void ActiveVisualizationUI()
+    public void ActiveSkinVisualization()
     {
         UI1.SetActive(false);
         SeleccionSkinsUI.SetActive(false);
-        VisualizacionSkinsUI.SetActive(true);
+        VisualizationSkinsUI.SetActive(true);
+    }
+
+    //SKIN 1 CANVA
+    public void ActiveSkin1Canvas()
+    {
+        ActiveSkinVisualization();
+        Skin1Canvas.SetActive(true);
+        Skin2Canvas.SetActive(false);
+        Skin3Canvas.SetActive(false);
+    }
+
+    //SKIN 2 CANVA
+    public void ActiveSkin2Canvas()
+    {
+        ActiveSkinVisualization();
+        Skin1Canvas.SetActive(false);
+        Skin2Canvas.SetActive(true);
+        Skin3Canvas.SetActive(false);
+    }
+
+    //SKIN 3 CANVA
+    public void ActiveSkin3Canvas()
+    {
+        ActiveSkinVisualization();
+        Skin1Canvas.SetActive(false);
+        Skin2Canvas.SetActive(false);
+        Skin3Canvas.SetActive(true);
     }
 }
