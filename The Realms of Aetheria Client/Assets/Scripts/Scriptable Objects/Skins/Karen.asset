@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8110ec54a7e22cf4a983aa88642b51bf, type: 3}
+  m_Name: Karen
+  m_EditorClassIdentifier: Assembly-CSharp::SkinInfo
+  skinName: Skin 1
+  worldIcon: {fileID: 0}
+  nameBG: {fileID: 0}
+  background: {fileID: 0}
+  storyText: 
+  storyTextButtonBG: {fileID: 0}
+  storyTextBG: {fileID: 0}
+  passiveName: 
+  passiveIcon: {fileID: 0}
+  passiveDescription: 
+  abbility1Name: 
+  abbility1Icon: {fileID: 0}
+  abbility1Description: 
+  abbility2Name: 
+  abbility2Icon: {fileID: 0}
+  abbility2Description: 
+  abbility3Name: 
+  abbility3Icon: {fileID: 0}
+  abbility3Description: 
+  abbility4Name: 
+  abbility4Icon: {fileID: 0}
+  abbility4Description: 

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8110ec54a7e22cf4a983aa88642b51bf, type: 3}
   m_Name: "M\xF3nica"
   m_EditorClassIdentifier: Assembly-CSharp::SkinInfo
-  skinName: kukiNica
+  skinName: Fayth
   worldIcon: {fileID: 0}
   nameBG: {fileID: 0}
   background: {fileID: 0}
@@ -22,15 +22,20 @@ MonoBehaviour:
   passiveName: 
   passiveIcon: {fileID: 0}
   passiveDescription: 
-  abbility1Name: 
-  abbility1Icon: {fileID: 0}
-  abbility1Description: 
-  abbility2Name: 
-  abbility2Icon: {fileID: 0}
-  abbility2Description: 
-  abbility3Name: 
-  abbility3Icon: {fileID: 0}
-  abbility3Description: 
-  abbility4Name: 
-  abbility4Icon: {fileID: 0}
-  abbility4Description: 
+  abbility1Name: "Lanza de P\xE9talos Radiantes"
+  abbility1Icon: {fileID: 21300000, guid: da18ba0419ff31b4884fdbec5c918986, type: 3}
+  abbility1Description: "Fayth concentra Aether en su mano y lanza una r\xE1faga
+    de p\xE9talos dorados y rosados que da\xF1an a los enemigos."
+  abbility2Name: 'Velo de Lythariel '
+  abbility2Icon: {fileID: 21300000, guid: 5ade2c07441c8dd49a070670bd0505bf, type: 3}
+  abbility2Description: "Invoca una barrera circular de luz blanca y dorada que reduce
+    el da\xF1o recibido por aliados dentro del \xE1rea."
+  abbility3Name: Florecer Astral
+  abbility3Icon: {fileID: 21300000, guid: cc66ef7f49e8bf547874a7079852e1c0, type: 3}
+  abbility3Description: "Hace brotar flores de Aether del suelo que explotan en luz,
+    da\xF1ando enemigos y curando aliados cercanos."
+  abbility4Name: 'Canto del Alba Eterna '
+  abbility4Icon: {fileID: 21300000, guid: 7fad34c5592cb454c9618e848e04c11c, type: 3}
+  abbility4Description: "Fayth se eleva ligeramente en el aire mientras alas de luz
+    dorada emergen de su espalda. Libera una gran oleada de Aether que cura fuertemente
+    a aliados y da\xF1a a enemigos oscuros o corrompidos.\r\n"

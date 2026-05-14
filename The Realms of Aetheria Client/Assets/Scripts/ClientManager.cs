@@ -98,4 +98,9 @@ public class ClientManager : MonoBehaviour
         Skin2Canvas.SetActive(false);
         Skin3Canvas.SetActive(true);
     }
+
+    public void CerrarJuego()
+    {
+        Application.Quit();
+    }
 }
