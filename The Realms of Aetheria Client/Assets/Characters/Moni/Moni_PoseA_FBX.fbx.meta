@@ -3,7 +3,47 @@ guid: f682827f43575bf40a4a7c217df35e7e
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ARMA
+    second: {fileID: 2100000, guid: abc56564e1fb2534c91255fbf361c157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAPA
+    second: {fileID: 2100000, guid: 638d6a1fe8e4d2242949b0e3e1753aae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FACIAL
+    second: {fileID: 2100000, guid: 4ce4875235a47944ab35f7f855780501, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FALDA
+    second: {fileID: 2100000, guid: 1baa97b12bd609a4690fdc3a9e6e933d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LAZOS
+    second: {fileID: 2100000, guid: 03cad52ce2b478f46928b8f65908ea77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MEDIAS
+    second: {fileID: 2100000, guid: 228ff5d07a62532458e56d6b23e88214, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PELO
+    second: {fileID: 2100000, guid: 2ecd54290db2f054ca432f2905accf43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIEL
+    second: {fileID: 2100000, guid: 946c981fb1daa974b85b44ec897f25b5, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0

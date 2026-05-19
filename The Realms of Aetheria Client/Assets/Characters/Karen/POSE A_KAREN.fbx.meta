@@ -3,12 +3,52 @@ guid: 991e8a7ec596b484e8b464f0f48c7e50
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CABELLO
+    second: {fileID: 2100000, guid: 919b6e42a631ff74e93b8711687c4708, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CALZON
+    second: {fileID: 2100000, guid: 0815043fde314784c9f837d16e17a3e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LAZOS
+    second: {fileID: 2100000, guid: 2cd6d2cca0003304f8f93d6b95797f43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OJOS
+    second: {fileID: 2100000, guid: 5676d1740bee37b4d91fa65d9229a861, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PIEL
+    second: {fileID: 2100000, guid: 404acf6f6aa2d3f4889fe17f36637bba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROP_
+    second: {fileID: 2100000, guid: e4b5ebf6a8c973d4aac7f73084835723, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TORNILLOS
+    second: {fileID: 2100000, guid: 88062c607f3c1364da425889fec68886, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aiStandardSurface11
+    second: {fileID: 2100000, guid: c8a157757adcb1a44bad7363f153d010, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
-    materialSearch: 1
-    materialLocation: 0
+    materialSearch: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
