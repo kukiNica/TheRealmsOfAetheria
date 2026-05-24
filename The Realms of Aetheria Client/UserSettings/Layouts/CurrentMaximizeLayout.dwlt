@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 1679
+  controlID: 106
   draggingID: 0
 --- !u!114 &2
 MonoBehaviour:
@@ -153,7 +153,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 112}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 1680
+  controlID: 107
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -179,7 +179,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 1757
+  controlID: 46
   draggingID: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -248,15 +248,11 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: 69192
+      m_SelectedIDs: []
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -1378
-      - m_Data: 100250
-      - m_Data: 100328
-      - m_Data: 100400
+      - m_Data: -1316
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -918,9 +914,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 12.684965, y: -0.58387196, z: 38.137295}
+    m_Target: {x: -17.006369, y: 11.207443, z: 40.27878}
     speed: 2
-    m_Value: {x: 12.684965, y: -0.58387196, z: 38.137295}
+    m_Value: {x: -16.761448, y: 12.061403, z: 40.326843}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -966,13 +962,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.06509729, y: -0.08998797, z: 0.0058954675, w: -0.99380386}
+    m_Target: {x: -0.013705634, y: -0.122386605, z: 0.0016893175, w: -0.99240583}
     speed: 2
-    m_Value: {x: -0.06748169, y: -0.08997283, z: 0.0061113797, w: -0.99363667}
+    m_Value: {x: -0.013707388, y: -0.121193275, z: 0.0016728371, w: -0.9925329}
   m_Size:
-    m_Target: 23.387215
+    m_Target: 41.010876
     speed: 2
-    m_Value: 23.387215
+    m_Value: 42.943325
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1085,7 +1081,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 56}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 1681
+  controlID: 108
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -1163,7 +1159,7 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materiales/TEXTURAS MONI/CAPA
+    - Assets/Materiales/TEXTURAS MONI/FALDA
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1173,7 +1169,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 85
   m_LastFolders:
-  - Assets/Materiales/TEXTURAS MONI/CAPA
+  - Assets/Materiales/TEXTURAS MONI/FALDA
   m_LastFoldersGridSize: 85
   m_LastProjectPath: C:\Users\kukin\OneDrive\Documentos\GitHub\Nueva carpeta\TheRealmsOfAetheria\The
     Realms of Aetheria Client
@@ -1183,17 +1179,17 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 115}
     m_SelectedIDs:
-    - m_Data: 101002
+    - m_Data: 67270
     m_LastClickedID:
-      m_Data: 101002
+      m_Data: 67270
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 100786
-    - m_Data: 100788
-    - m_Data: 100790
-    - m_Data: 100792
-    - m_Data: 100794
-    - m_Data: 100994
+    - m_Data: 67052
+    - m_Data: 67054
+    - m_Data: 67056
+    - m_Data: 67058
+    - m_Data: 67060
+    - m_Data: 67062
     - m_Data: 1000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1227,13 +1223,12 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 100786
-    - m_Data: 100788
-    - m_Data: 100790
-    - m_Data: 100792
-    - m_Data: 100794
-    - m_Data: 100994
-    - m_Data: 1000000000
+    - m_Data: 67052
+    - m_Data: 67054
+    - m_Data: 67056
+    - m_Data: 67058
+    - m_Data: 67060
+    - m_Data: 67062
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1260,10 +1255,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: 69192
-    m_LastClickedInstanceID: 69192
-    m_HadKeyboardFocusLastEvent: 1
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs:
     - m_Data: 50018
     - m_Data: 94490
@@ -1328,7 +1322,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 502.4
-    width: 721.4
+    width: 813.4
     height: 267.59998
   m_SerializedDataModeController:
     m_DataMode: 0
